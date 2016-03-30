@@ -25,7 +25,7 @@
    0. normalize.css v3.0.3 | MIT License | git.io/normalize | (minified)
    ========================================================================== */
 
-html { 
+html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
@@ -71,7 +71,7 @@ button, input, optgroup, select, textarea {
 }
 button { overflow: visible; }
 button, select { text-transform: none; }
-button, html input[type="button"], 
+button, html input[type="button"],
 input[type="reset"], input[type="submit"] {
     -webkit-appearance: button;
     cursor: pointer;
@@ -504,7 +504,7 @@ body.nav-opened .site-wrapper {
     position: relative;
     display: table;
     width: 100%;
-    height: 100vh;
+    height: 480px;
     margin-bottom: 5rem;
     text-align: center;
     background: #222 no-repeat center center;
@@ -777,7 +777,7 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 38px;
+    height: 250px;
     padding: 1px 0 5px 0;
     width: auto;
 }
@@ -872,7 +872,7 @@ body.nav-opened .nav {
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: #ce181e;
 }
 
 .page-description {
@@ -882,7 +882,7 @@ body.nav-opened .nav {
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
-    color: rgba(255,255,255,0.8);
+    color: #ce181e;
 }
 
 .no-cover.main-header {
